@@ -4,7 +4,7 @@
   "description": "Ryan's ESLint configuration (based on Ryan's other ESLint config: @architect/eslint-config)",
   "main": "index.js",
   "scripts": {
-    "lint": "eslint .",
+    "lint": "eslint . --fix",
     "test": "npm run lint"
   },
   "repository": {
