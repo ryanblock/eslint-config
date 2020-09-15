@@ -1,3 +1,5 @@
+// Disable next line to deal with .eslintrc flagging filename warning
+// eslint-disable-next-line
 module.exports = {
   parserOptions: {
     ecmaVersion: 2018
